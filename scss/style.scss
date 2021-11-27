@@ -92,6 +92,10 @@ body {
         padding:1.5rem 0 1.4rem;
         text-align: center;
     }
+
+    &__link:hover {
+        cursor: pointer;
+    }
 }
 
 .why-us {
@@ -116,6 +120,10 @@ body {
         font-size: 1.4rem;
         line-height: 2rem;
         opacity: 0.75;
+    }
+
+    &__link:hover {
+        cursor: pointer;
     }
 
 }

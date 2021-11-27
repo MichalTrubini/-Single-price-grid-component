@@ -258,6 +258,10 @@ body {
   text-align: center;
 }
 
+.subscription__link:hover {
+  cursor: pointer;
+}
+
 .why-us {
   background: #4bbfbc;
   color: #fff;
@@ -281,6 +285,10 @@ body {
   font-size: 1.4rem;
   line-height: 2rem;
   opacity: 0.75;
+}
+
+.why-us__link:hover {
+  cursor: pointer;
 }
 
 @media screen and (min-width: 675px) {
